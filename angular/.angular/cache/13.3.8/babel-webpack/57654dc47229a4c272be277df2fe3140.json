@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class PostNotes {\n  constructor(noteName, noteBody, _id) {\n    this.noteName = noteName;\n    this.noteBody = noteBody;\n    this._id = _id;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}

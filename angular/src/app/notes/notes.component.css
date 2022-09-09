@@ -1,0 +1,61 @@
+.btn-add-contact {
+    position: fixed;
+    bottom: 40px;
+    right: 30px;
+    border-radius: 40px;
+    width: 60px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.btn-search {
+    position: fixed;
+    bottom: 110px;
+    right: 30px;
+    border-radius: 40px;
+    width: 60px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.btn-add-find-back {
+    position: fixed;
+    bottom: 110px;
+    left: 30px;
+    border-radius: 40px;
+    width: 60px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+}
+
+.dropdown-toggle{
+    position: fixed;
+    top: 40px;
+    right: 30px;
+    border-radius: 40px;
+    width: 60px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+}
+
+.visualization {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    position: fixed;
+    top: 19%;
+    left: 9%;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: scroll;
+    height: 350px;
+}
+
+ 
